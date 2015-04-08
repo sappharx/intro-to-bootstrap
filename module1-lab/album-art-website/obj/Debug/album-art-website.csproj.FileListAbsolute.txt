@@ -1,0 +1,6 @@
+C:\dev\repo\intro-to-bootstrap\module1-lab\album-art-website\bin\album-art-website.dll.config
+C:\dev\repo\intro-to-bootstrap\module1-lab\album-art-website\bin\album-art-website.dll
+C:\dev\repo\intro-to-bootstrap\module1-lab\album-art-website\bin\album-art-website.pdb
+C:\dev\repo\intro-to-bootstrap\module1-lab\album-art-website\obj\Debug\album-art-website.csprojResolveAssemblyReference.cache
+C:\dev\repo\intro-to-bootstrap\module1-lab\album-art-website\obj\Debug\album-art-website.dll
+C:\dev\repo\intro-to-bootstrap\module1-lab\album-art-website\obj\Debug\album-art-website.pdb
