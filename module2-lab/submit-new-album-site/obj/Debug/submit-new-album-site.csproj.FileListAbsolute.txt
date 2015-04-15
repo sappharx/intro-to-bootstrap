@@ -1,0 +1,6 @@
+C:\dev\repo\intro-to-bootstrap\module2-lab\submit-new-album-site\bin\submit-new-album-site.dll.config
+C:\dev\repo\intro-to-bootstrap\module2-lab\submit-new-album-site\bin\submit-new-album-site.dll
+C:\dev\repo\intro-to-bootstrap\module2-lab\submit-new-album-site\bin\submit-new-album-site.pdb
+C:\dev\repo\intro-to-bootstrap\module2-lab\submit-new-album-site\obj\Debug\submit-new-album-site.csprojResolveAssemblyReference.cache
+C:\dev\repo\intro-to-bootstrap\module2-lab\submit-new-album-site\obj\Debug\submit-new-album-site.dll
+C:\dev\repo\intro-to-bootstrap\module2-lab\submit-new-album-site\obj\Debug\submit-new-album-site.pdb
